@@ -5,4 +5,4 @@
 (define pkg-desc "MathOak, tools and library for practicle mathematics.")
 (define version "0.0.1")
 (define pkg-authors '(Symbolistics.com Killian Josh))
-(define license '(MIT))
+(define license '(Apache-2.0 OR MIT))
